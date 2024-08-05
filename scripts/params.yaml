@@ -1,0 +1,5 @@
+split:
+  split_ratio: 0.3
+cars:
+  seed: 42
+  max_depth: 50
